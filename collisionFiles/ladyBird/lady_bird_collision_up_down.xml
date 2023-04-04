@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collision>
+   <collisionLevel level="1" >
+      <collisionCircle radius="50" x="25" y="25" />
+   </collisionLevel>
+   <collisionLevel level="2" >
+      <collisionCircle radius="17" x="26" y="17" />
+      <collisionCircle radius="17" x="26" y="33" />
+      <collisionCircle radius="10" x="15" y="22" />
+      <collisionCircle radius="10" x="35" y="22" />
+   </collisionLevel>
+</collision>

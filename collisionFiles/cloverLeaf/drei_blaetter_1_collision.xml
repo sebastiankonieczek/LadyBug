@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collision>
+   <collisionLevel level="1" >
+      <collisionCircle radius="20" x="25" y="25" />
+   </collisionLevel>
+</collision>
